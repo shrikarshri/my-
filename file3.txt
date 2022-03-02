@@ -1,1 +1,2 @@
 this is third text
+modified in sub2 after merging trial with master
