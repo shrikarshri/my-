@@ -1,2 +1,3 @@
 this is third text
 checkout head should be used
+modified in sub2 after merging trial with master
