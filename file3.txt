@@ -1,1 +1,2 @@
 this is third text
+checkout head should be used
